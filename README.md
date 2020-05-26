@@ -1,6 +1,10 @@
-# MyFirstApp
+# Shopper App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+
+## Project Description
+
+This project follows the course Angular - The Complete Guide (2020 Edition) on Udemy. The Shopper App is a web application for recipe book and shopping list. Simple functions include creating a shopping list with the name and the amount of food, importing recipes with their names and descriptions with an image, and even importing the ingredients from the recipes to your shopping cart.
 
 ## Development server
 
